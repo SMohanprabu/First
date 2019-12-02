@@ -1,10 +1,1 @@
-Need to check integration status............
-16.09
-
-
-
-again.....
-
-Automatic build
-
-
+Testing to push in FTP......
