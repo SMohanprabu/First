@@ -4,6 +4,8 @@ pull test
 
 how is modified../////////////
 
+to check the build status in jenkins......
+
 
 
 
